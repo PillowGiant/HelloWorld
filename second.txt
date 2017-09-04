@@ -2,3 +2,4 @@ This in the second file in this repository!
 Nothing to do at the momment(23:42pm).
 The merge practice.
 The meger management.
+Modify the file,but not commit.Fixed the bug,now can commit!
