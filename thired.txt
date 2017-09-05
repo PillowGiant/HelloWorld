@@ -1,1 +1,2 @@
 This is the thired file in the repository
+In the clone repository,add the second line.
