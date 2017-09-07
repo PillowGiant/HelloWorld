@@ -5,3 +5,4 @@ The meger management.
 Modify the file,but not commit.Fixed the bug,now can commit!
 Two man will commit this file.
 Two people will commit this file.
+Change the ssh password.
